@@ -1,4 +1,4 @@
-# Proejeto: Cálculo de Antecessor e Sucessor
+# Projeto: Cálculo de Antecessor e Sucessor
 
 O objetivo deste projeto é aplicar conceitos básicos de matemática utilizando a linguagem Python, com base no Desafio 05 da playlist do canal Curso em Vídeo do Gustavo Guanabara.
 
